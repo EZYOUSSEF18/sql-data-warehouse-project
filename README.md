@@ -103,5 +103,12 @@ data-warehouse-project/
 
  This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
-🌟 About Me
+🌟 About Me : 
+
+  Hi there! I'm Ezrifi Youssef, I'm a Data engineer.
+
+  Let's stay in touch:
+  
+  - mail : youssefbusa1300@gmail.com
+  - Linked in : youssef Ezrifi
 
