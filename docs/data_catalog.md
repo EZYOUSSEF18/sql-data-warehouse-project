@@ -13,8 +13,7 @@ La couche Gold (Gold Layer) est la représentation des données au niveau métie
 |------------------|---------------|-----------------------------------------------------------------------------------------------|
 | customer_key     | INT           | Clé substitut (Surrogate Key) identifiant de manière unique chaque enregistrement            |
 | customer_id      | INT           | Identifiant numérique unique attribué à chaque client                                        |
-| customer_number  | NVARCHAR(50)  | Identifiant alphanumérique représentant le client utilisé pour le suivi et la référence 
-                |
+| customer_number  | NVARCHAR(50)  | Identifiant alphanumérique représentant le client utilisé pour le suivi et la référence        |
 | first_name       | NVARCHAR(50)  | Le prénom du client tel qu'enregistré dans le système                                                          |
 | last_name        | NVARCHAR(50)  | Le nom de famille du client                                                                          |
 | country          | NVARCHAR(50)  | Le pays de résidence du client (par exemple : « Australie »)                                  |
